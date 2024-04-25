@@ -45,7 +45,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className='legal'>
-        <span>© 2024 RentUP. Designd By Ghouse Karan Suhaas.</span>
+        <span>© 2024 RentUP. Designd By Ganesh.</span>
       </div>
     </>
   )
